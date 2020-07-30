@@ -1,0 +1,12 @@
+[submodule "brotli"]
+	path = brotli
+	url = https://github.com/google/brotli
+[submodule "simg2img"]
+	path = simg2img
+	url = https://github.com/anestisb/android-simg2img
+[submodule "oppo-ozip"]
+	path = oppo-ozip
+	url = https://github.com/bkerler/oppo_ozip_decrypt
+[submodule "payload.bin"]
+	path = payload.bin
+	url = https://github.com/cyxx/extract_android_ota_payload
